@@ -10,9 +10,9 @@ export default {
  data () {
    return {
      jobs: [
-       {title:'coco bohdan', id: 4, details: 'bohdan'},
-       {title:'kit', id: 4, details: 'bohdan'},
-       {title:'like', id: 4, details: 'bohdan'}
+       {title:'coco bohdaknbn', id: 1, details: 'bohdan'},
+       {title:'kit', id: 2, details: 'bohdan'},
+       {title:'like', id: 3, details: 'bohdan'}
      ]
    }
  }
